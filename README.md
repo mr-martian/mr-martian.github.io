@@ -6,6 +6,10 @@ Khanna, Tanmai, Washington, Jonathan N, Tyers, Francis M, Bayatlı, Sevilay, Swa
 
 Swanson, Daniel and Howell, Nick, 2021 _Lexd: A Finite-State Lexicon Compiler for Non-Suffixational Morphologies_ In Hämäläinen, M., Partanen, N., Alnajjar, K. (eds.) Multilingual Facilitation [pdf](https://helda.helsinki.fi/bitstream/handle/10138/327807/13_Swanson_Howell_Multilingual_Facilitation.pdf?sequence=2)
 
+## Conference Presentations
+
+Murphy, Kevin, Stern, Nathaniel Ziv, Swanson, Daniel, Ho, Caleb, and Washington, Jonathan, 2020 _UltraTrace: A free/open-source cross-platform tool for manual annotation of ultrasound tongue imaging data_ In UltraFest IX [pdf](https://ultrafest2020.indiana.edu/abstracts/UltraFest_IX__Murphy_Stern_Swanson_Ho_Washington_UltraTrace.pdf)
+
 ## Less-Serious Publications
 
 Swanson, Daniel, 2021 _Inter-Lingual Personal Script_ Speculative Grammarian [link](https://specgram.com/CLXXXIX.2/10.swanson.ilps.html)
