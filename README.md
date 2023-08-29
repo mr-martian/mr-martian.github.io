@@ -1,6 +1,6 @@
 # Daniel Swanson's Link Collection Point
 
-![my name in ILPS](name.svg)
+![my name in ILPS](name.png)
 
 I am a PhD student in Computational Linguistics at Indiana University Bloomington studying machine-assisted annotation and translation for low-resourced and ancient languages. I have been a developer with the machine translation group [Apertium](https://apertium.org/) since 2019.
 
