@@ -8,6 +8,14 @@ Swanson, Daniel and Howell, Nick, 2021 _Lexd: A Finite-State Lexicon Compiler fo
 
 ## Conference Presentations
 
+Alexandra O’neil, Daniel Swanson, Robert Pugh, Francis Tyers, and Emmanuel Ngue Um. 2023. Comparing methods of orthographic conversion for Bàsàá, a language of Cameroon. In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 97–105, Dubrovnik, Croatia. Association for Computational Linguistics. [pdf](https://aclanthology.org/2023.rail-1.11.pdf)
+
+Hossep Dolatian, Daniel Swanson, and Jonathan Washington. 2022. A Free/Open-Source Morphological Transducer for Western Armenian. In Proceedings of the Workshop on Processing Language Variation: Digital Armenian (DigitAm) within the 13th Language Resources and Evaluation Conference, pages 1–7, Marseille, France. European Language Resources Association. [pdf](https://aclanthology.org/2022.digitam-1.1.pdf)
+
+Daniel Swanson and Francis Tyers. 2022. A Universal Dependencies Treebank of Ancient Hebrew. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2353–2361, Marseille, France. European Language Resources Association. [pdf](https://aclanthology.org/2022.lrec-1.252.pdf)
+
+Daniel Swanson and Francis Tyers. 2022. Handling Stress in Finite-State Morphological Analyzers for Ancient Greek and Ancient Hebrew. In Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages, pages 108–113, Marseille, France. European Language Resources Association. [pdf](https://aclanthology.org/2022.lt4hala-1.15.pdf)
+
 Murphy, Kevin, Stern, Nathaniel Ziv, Swanson, Daniel, Ho, Caleb, and Washington, Jonathan, 2020 _UltraTrace: A free/open-source cross-platform tool for manual annotation of ultrasound tongue imaging data_ In UltraFest IX [pdf](https://ultrafest2020.indiana.edu/abstracts/UltraFest_IX__Murphy_Stern_Swanson_Ho_Washington_UltraTrace.pdf)
 
 ## Less-Serious Publications
