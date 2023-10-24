@@ -12,7 +12,7 @@ Swanson, Daniel and Howell, Nick, 2021 _Lexd: A Finite-State Lexicon Compiler fo
 
 ## Book Chapters
 
-Swanson, Daniel G. _Apertium_. Rule-Based Language Technology, edited by Arvi Hurskainen et al., Northern European Association for Language Technology, 2023, pp. 95–111. [pdf](https://www.researchgate.net/profile/Arvi-Hurskainen/publication/370129403_Rule-Based_Language_Technology/links/6440f3001b8d044c6337da51/Rule-Based-Language-Technology.pdf)
+Swanson, Daniel G. _Apertium_. Rule-Based Language Technology, edited by Arvi Hurskainen et al., Northern European Association for Language Technology, 2023, pp. 95–111. [pdf](https://dspace.ut.ee/bitstream/handle/10062/89595/7-RBLT-Apertium.pdf)
 
 ## Conference Presentations
 
