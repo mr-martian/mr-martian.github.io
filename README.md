@@ -16,7 +16,11 @@ Swanson, Daniel G. _Apertium_. Rule-Based Language Technology, edited by Arvi Hu
 
 ## Conference Presentations
 
-Alexandra O’neil, Daniel Swanson, Robert Pugh, Francis Tyers, and Emmanuel Ngue Um. 2023. Comparing methods of orthographic conversion for Bàsàá, a language of Cameroon. In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 97–105, Dubrovnik, Croatia. Association for Computational Linguistics. [pdf](https://aclanthology.org/2023.rail-1.11.pdf)
+Elizabeth Gabel, Holly Redman, Daniel Swanson, and Sandra Kübler. 2023. _IU-Percival: Linear Models for Sexism Detection_. Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum. [pdf](https://ceur-ws.org/Vol-3497/paper-079.pdf)
+
+Alexandra O’neil, Daniel Swanson, Robert Pugh, Francis Tyers, and Emmanuel Ngue Um. 2023. _Comparing methods of orthographic conversion for Bàsàá, a language of Cameroon_. In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 97–105, Dubrovnik, Croatia. Association for Computational Linguistics. [pdf](https://aclanthology.org/2023.rail-1.11.pdf)
+
+Daniel Swanson, Tino Didriksen, and Francis M. Tyers. 2023. _WITH Context: Adding Rule-Grouping to VISL CG-3_. In Proceedings of the NoDaLiDa 2023 Workshop on Constraint Grammar - Methods, Tools and Applications, pages 10–14, Tórshavn, Faroe Islands. Association of Computational Linguistics. [pdf](https://aclanthology.org/2023.nodalida-cgmta.2.pdf)
 
 Hossep Dolatian, Daniel Swanson, and Jonathan Washington. 2022. _A Free/Open-Source Morphological Transducer for Western Armenian_. In Proceedings of the Workshop on Processing Language Variation: Digital Armenian (DigitAm) within the 13th Language Resources and Evaluation Conference, pages 1–7, Marseille, France. European Language Resources Association. [pdf](https://aclanthology.org/2022.digitam-1.1.pdf)
 
