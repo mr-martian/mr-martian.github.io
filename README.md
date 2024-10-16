@@ -16,6 +16,14 @@ Swanson, Daniel G. _Apertium_. Rule-Based Language Technology, edited by Arvi Hu
 
 ## Conference Presentations
 
+Alexandra O’Neil, Daniel Swanson, and Shobhana Chelliah. 2024. _Computational Language Documentation: Designing a Modular Annotation and Data Management Tool for Cross-cultural Applicability_. In Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP, pages 107–116, Bangkok, Thailand. Association for Computational Linguistics. [pdf](https://aclanthology.org/2024.c3nlp-1.9.pdf)
+
+Daniel G. Swanson, Bryce D. Bussert, and Francis Tyers. 2024. _Towards Named-Entity and Coreference Annotation of the Hebrew Bible_. In Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024, pages 36–40, Torino, Italia. ELRA and ICCL. [pdf](https://aclanthology.org/2024.lt4hala-1.5.pdf)
+
+Robert Forkel, Daniel G. Swanson, and Steven Moran. 2024. _Converting Legacy Data to CLDF: A FAIR Exit Strategy for Linguistic Web Apps_. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 3978–3982, Torino, Italia. ELRA and ICCL. [pdf](https://aclanthology.org/2024.lrec-main.353.pdf)
+
+Daniel G. Swanson, Bryce D. Bussert, and Francis Tyers. 2024. _Producing a Parallel Universal Dependencies Treebank of Ancient Hebrew and Ancient Greek via Cross-Lingual Projection_. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 13074–13078, Torino, Italia. ELRA and ICCL. [pdf](https://aclanthology.org/2024.lrec-main.1145.pdf)
+
 Elizabeth Gabel, Holly Redman, Daniel Swanson, and Sandra Kübler. 2023. _IU-Percival: Linear Models for Sexism Detection_. Working Notes of CLEF 2023 – Conference and Labs of the Evaluation Forum. [pdf](https://ceur-ws.org/Vol-3497/paper-079.pdf)
 
 Alexandra O’neil, Daniel Swanson, Robert Pugh, Francis Tyers, and Emmanuel Ngue Um. 2023. _Comparing methods of orthographic conversion for Bàsàá, a language of Cameroon_. In Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023), pages 97–105, Dubrovnik, Croatia. Association for Computational Linguistics. [pdf](https://aclanthology.org/2023.rail-1.11.pdf)
